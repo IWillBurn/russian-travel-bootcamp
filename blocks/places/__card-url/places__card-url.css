@@ -1,0 +1,35 @@
+.places__card-url {
+    color: #AAAAAA;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 320px) {
+    .places__card-url {
+        line-height: 12px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .places__card-url {
+        line-height: 12px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .places__card-url {
+        line-height: 170%;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .places__card-url {
+        line-height: 170%;
+    }
+}

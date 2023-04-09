@@ -1,0 +1,31 @@
+.lead__image {
+    width: 100%;
+    object-fit: cover;
+    display: flex;
+    align-self: center;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 320px) {
+    .lead__image {
+        margin: 40px 0px 0 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .lead__image {
+        margin: 56px 0px 0 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__image {
+        margin: 56px 0 0 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image {
+        margin: 64px 0 0 0;
+    }
+}

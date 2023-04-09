@@ -1,0 +1,6 @@
+.places__card-image {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    object-fit: cover;
+}
