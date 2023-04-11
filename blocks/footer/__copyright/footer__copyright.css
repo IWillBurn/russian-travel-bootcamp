@@ -19,15 +19,3 @@
         line-height: 16px;
     }
 }
-
-@media screen and (min-width: 1024px) {
-    .footer__copyright {
-        line-height: 16px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .footer__copyright {
-        line-height: 16px;
-    }
-}

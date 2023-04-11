@@ -1,7 +1,6 @@
 .cover {
     box-sizing: border-box;
     width: 100%;
-    aspect-ratio: 16/10;
     position: relative;
     margin: 0;
     padding: 0;

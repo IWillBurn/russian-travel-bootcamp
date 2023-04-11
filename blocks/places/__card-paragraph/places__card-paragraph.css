@@ -16,19 +16,7 @@
 	}
 }
 
-@media screen and (min-width: 768px) {
-	.places__card-paragraph {
-		font-size: 16px;
-	}
-}
-
 @media screen and (min-width: 1024px) {
-	.places__card-paragraph {
-		font-size: 18px;
-	}
-}
-
-@media screen and (min-width: 1280px) {
 	.places__card-paragraph {
 		font-size: 18px;
 	}
