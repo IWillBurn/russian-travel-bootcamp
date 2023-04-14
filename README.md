@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+# Проект: Mesto
 
 [Ссылка на страницу](https://iwillburn.github.io/mesto-project-bootcamp/)
 
